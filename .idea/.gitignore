@@ -1,0 +1,20 @@
+# Compiled output
+# This is where your compiled .class files go.
+/out/
+
+# IntelliJ IDEA
+# Ignores the entire directory for user-specific settings.
+/.idea/
+# These are IntelliJ's module files.
+*.iml
+
+# The files below were already in your .gitignore
+# Default ignored files
+/shelf/
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
